@@ -8,7 +8,7 @@ public class Gitbeans {
         System.out.println("Team-Git-Initialise");
         System.out.println("check root path click ok");
         System.out.println("Team-Commit");
-        System.out.println("Team-Remote-Pull(specify git location)-next-finish");
+        System.out.println("Team-Remote-Pull(specify git location/paist url)-next-finish");
         System.out.println("click merge");
         System.out.println("Team-Remote-Push(specify git location)-next-finish");
     }
